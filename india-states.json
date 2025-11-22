@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Delhi"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[77.1025, 28.7041], [77.1025, 28.7041]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Maharashtra"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[72.8777, 19.0760], [72.8777, 19.0760]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Karnataka"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[77.5946, 12.9716], [77.5946, 12.9716]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "West Bengal"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[88.3639, 22.5726], [88.3639, 22.5726]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tamil Nadu"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[80.2707, 13.0827], [80.2707, 13.0827]]]
+        }
+      }
+    ]
+  }
